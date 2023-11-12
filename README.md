@@ -1,7 +1,7 @@
 # project_1_AI_Indonesia
 [link dataset](https://drive.google.com/drive/folders/1aeEHgCQtE119mY5JjIwVBys0LR0P8SxJ?hl=id)
 
-## Welcom to my first Project At AI Indonesia Bootcamp.
+## Welcome to my first Project At AI Indonesia Bootcamp :sunglasses:.
 In this session, I created an architectural model based on GoogleNet or InceptionV3
 
 ## Result
